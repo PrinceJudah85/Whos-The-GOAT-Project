@@ -23,3 +23,9 @@ While also providing the player's pedigree information such as:
 * University / High School they attended
 
 While the [SportsRadar API]('https://sportradar.us/2018/10/nba-headshots-now-available/') will provide a headshot image of each player.
+
+### Web App Layout
+![Web App Layout](https://i.imgur.com/H3jjlvp.png)
+
+### Mobile App Layout
+![Mobile App Layout](https://i.imgur.com/ObkftAA.png)
